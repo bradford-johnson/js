@@ -57,5 +57,3 @@ console.log(squareV2(5));
 function squareV2(n) {
   return n * n;
 }
-
-
